@@ -1,0 +1,104 @@
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\App.g.i.cs
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\App.g.cs
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\HubPage.g.i.cs
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\HubPage.g.cs
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\ItemPage.g.i.cs
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\ItemPage.g.cs
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\SectionPage.g.i.cs
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\SectionPage.g.cs
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\ItemPage.xaml
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\SectionPage.xaml
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\ItemPage.xbf
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\SectionPage.xbf
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\XamlSaveStateFile.xml
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\App.xaml
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\HubPage.xaml
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\App.xbf
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\HubPage.xbf
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\bin\Debug\Assets\avatar1.jpg
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\bin\Debug\App.xbf
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\bin\Debug\HubPage.xbf
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\bin\Debug\ItemPage.xbf
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\bin\Debug\SectionPage.xbf
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\bin\Debug\Prototype1.xr.xml
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\bin\Debug\Prototype1.exe
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\bin\Debug\Prototype1.pdb
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\bin\Debug\resources.pri
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\bin\Debug\AppxManifest.xml
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\bin\Debug\Prototype1.build.appxrecipe
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\Prototype1.exe
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\Prototype1.pdb
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\priconfig.xml
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\priconfig.xml.intermediate
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\layout.resfiles
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\layout.resfiles.intermediate
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\resources.resfiles
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\resources.resfiles.intermediate
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\pri.resfiles
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\pri.resfiles.intermediate
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\qualifiers.txt
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\qualifiers.txt.intermediate
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\ProjectArchitectures.txt
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\Prototype1.csprojResolveAssemblyReference.cache
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\Prototype1.csproj.GenerateResource.Cache
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\bin\Debug\ChatPage.xbf
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\ChatPage.g.i.cs
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\ChatPage.g.cs
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\ChatPage.xaml
+C:\Users\gussand\Documents\Visual Studio 2013\Projects\Prototype1\Prototype1\obj\Debug\ChatPage.xbf
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\bin\Debug\Assets\avatar1.jpg
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\bin\Debug\App.xbf
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\bin\Debug\ChatPage.xbf
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\bin\Debug\HubPage.xbf
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\bin\Debug\ItemPage.xbf
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\bin\Debug\SectionPage.xbf
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\bin\Debug\Prototype1.xr.xml
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\bin\Debug\Prototype1.exe
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\bin\Debug\Prototype1.pdb
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\bin\Debug\resources.pri
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\bin\Debug\AppxManifest.xml
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\bin\Debug\Prototype1.build.appxrecipe
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\Prototype1.csprojResolveAssemblyReference.cache
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\App.g.i.cs
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\App.g.cs
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\ChatPage.g.i.cs
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\ChatPage.g.cs
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\HubPage.g.i.cs
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\HubPage.g.cs
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\ItemPage.g.i.cs
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\ItemPage.g.cs
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\SectionPage.g.i.cs
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\SectionPage.g.cs
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\App.xaml
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\ChatPage.xaml
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\HubPage.xaml
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\ItemPage.xaml
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\SectionPage.xaml
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\App.xbf
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\ChatPage.xbf
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\HubPage.xbf
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\ItemPage.xbf
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\SectionPage.xbf
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\XamlSaveStateFile.xml
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\Prototype1.exe
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\Prototype1.pdb
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\Prototype1.csproj.GenerateResource.Cache
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\priconfig.xml
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\priconfig.xml.intermediate
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\layout.resfiles
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\layout.resfiles.intermediate
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\resources.resfiles
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\resources.resfiles.intermediate
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\pri.resfiles
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\pri.resfiles.intermediate
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\qualifiers.txt
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\qualifiers.txt.intermediate
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\gussand\Documents\GitHub\GroupMeCSharpPrototype\Prototype1\Prototype1\obj\Debug\ProjectArchitectures.txt
